@@ -17,16 +17,20 @@ class Friends(commands.Cog):
             if str(message.author) == "Mr Octopus#7924":
                 await message.channel.send('Hei Fredrik! Du er min bestevenn!')
 
-            if str(message.author) == "B E P I S#2925":
+            elif str(message.author) == "B E P I S#2925":
                 await message.channel.send('Nom!')
 
-            if str(message.author) == "adispinjic#6655":
+            elif str(message.author) == "Looland#8359":
+                await message.channel.send('Amogus')
+                await message.channel.send("https://i1.sndcdn.com/artworks-TOJJyHynzM0iRSuW-9URBDA-t500x500.jpg")
+
+            elif str(message.author) == "adispinjic#6655":
                 await message.channel.send('Adis! Har du sett Fredrik??')
 
-            if str(message.author) == "Rylance#6969":
+            elif str(message.author) == "Rylance#6969":
                 await message.channel.send('Lewis! Have you seen Fredrik?? Please find him, he owes me money!')
 
-            if str(message.author) == "akvanvig#4328":
+            elif str(message.author) == "akvanvig#4328":
                 await message.channel.send('Hei Anders! Visste du dette?: Mao Zedong (tradisjonell kinesisk: 毛澤東, '
                                            'forenklet kinesisk: 毛泽东, pinyin: Máo Zédōng; Wade-Giles: Mao Tse-tung, '
                                            'født 26. desember 1893 i Shaoshan i Hunan i Kina, død 9. september 1976 i '
