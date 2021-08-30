@@ -2,6 +2,8 @@ import discord
 from discord.ext import commands
 from asyncio import sleep as s
 
+#remind 10 grandis
+
 
 class Grandis(commands.Cog):
 
